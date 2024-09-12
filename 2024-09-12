@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "HTML-1:html,head,title,body"
+---
+#Today we're gonna learn about those three tags, html,head,body.
+**<HTML>, which stands for 'HyperText Markup Language', marks the start and end of a web file.**
+When you start creating your web file, put <html> at the beginning, and when you finish, put </html> at the end of the file.
+
+**<head> contains information that the web browser should know.**
+Almost all content located inside the <head> section is not displayed on the web browser screen.
+
+**<title> is the most important tag within the <head> section.**
+If you want to set a title for your web page, place it between <title> and </title>. 
+It will be the title of the webpage, allowing others to understand the content of the page.
+
+**<body>,the main body of web page.**
+If you put the contents inside the <body>part, it'll be revealed on the web screen.
+Almost every HTML tags explained on my github will be used in <body> tag.
+
+
+
